@@ -1,17 +1,17 @@
-# 🔒 Virtual File Vault
+#  Virtual File Vault
 
-## 🧩 A Password-Protected File Encrypter and Decrypter
+##  A Password-Protected File Encrypter and Decrypter
 Built using **Python**, **Tkinter**, and the **Cryptography** library.
 
 ---
 
-## 📖 Overview
+#  Overview
 **Virtual File Vault** is a simple yet powerful tool that helps you **securely lock and unlock your important files**.  
 It uses strong encryption techniques to protect sensitive data, ensuring your files remain private and safe.
 
 ---
 
-## ⚙️ Features
+##  Features
 - 🔐 Encrypt any file with a password  
 - 🔓 Decrypt files with the correct password  
 - 🧰 Simple and user-friendly GUI built with Tkinter  
@@ -24,11 +24,19 @@ It uses strong encryption techniques to protect sensitive data, ensuring your fi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/virtual-file-vault.git
+git clone https://github.com/naziamobeen/virtual-file-vault.git
 cd virtual-file-vault
 ===========================
 2. To Install dependencies
 pip install -r requirements.txt
 ===============================
 3. Run the application
+
 python virtual_file_vault.py
+
+
+Virtual-File-Vault/
+│
+├── virtual_file_vault.py     # Main application file
+├── requirements.txt          # Required dependencies
+├── README.md                 # Project documentation
